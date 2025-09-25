@@ -1,5 +1,5 @@
-# Credit-Risk-Analysis-Loan-Approval-Prediction
-# 🏦 Bank Loan Approval Prediction  
+
+# 🏦 Bank Credit-Risk-Analysis-Loan-Approval-Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%2C%20XGBoost-orange)  
