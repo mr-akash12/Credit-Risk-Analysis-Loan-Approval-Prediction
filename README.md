@@ -52,9 +52,9 @@ This project focuses on building a Machine Learning model to predict bank loan a
 └── requirements.txt # Dependencies
 
 
-## 📸 Dashboard Preview
-Here are some snapshots of the Pizza Sales Dashboard:
-![image alt](https://github.com/Aanya-Gupta1/Pizza-Sales-Dashboard/blob/f6fc56d2fc46043fe31d0aa7dce20bf4d5832b14/screenshot_1.png)
+## 📸 Website Preview
+Here are some snapshots of the aWebsite:
+![image alt](https://github.com/mr-akash12/Credit-Risk-Analysis-Loan-Approval-Prediction/blob/main/Screenshot%202025-09-26%20022724.png)
 
 ## 🙌 Acknowledgements  
 This project is inspired by real-world banking use cases of **credit risk analysis** and demonstrates how **machine learning** can enhance decision-making in financial institutions.  
