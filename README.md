@@ -5,7 +5,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%2C%20XGBoost-orange)  
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
-##📌 Project Description 
+📌 Project Description 
 This project focuses on building a Machine Learning model to predict bank loan approvals based on applicant details such as income, employment type, dependents, assets, loan amount, term, and credit score . The goal is to help banks and financial institutions automate the loan approval process, reduce risk and make data-driven decisions .
 ----
 ## 🎯 Objectives  
